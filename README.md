@@ -1,3 +1,35 @@
+# Advanced Classroom
+
+It is a simple online virtual classroom website created using React and Firebase. 
+
+![Login Page](https://drive.google.com/file/d/1tQmumD5bD953IKrxLTMLkBS2w1mk4hF-/view?usp=sharing)
+
+Link to live website deployed on Firebase-
+[Visit Website](https://advanced-classroom-b0ce7.web.app/)
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+## Steps Followed
+
+1.) Create React App
+2.) Install Firebase dependencies
+3.) Set up Firebase as Backend on https://firebase.google.com/
+4.) Enable Authentication
+5.) Enable Cloud Firestore 
+6.) Link React App with Firebase
+7.) Configure Routers
+8.) Work on creating features/components
+9.) Finally, run **npm start**
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
