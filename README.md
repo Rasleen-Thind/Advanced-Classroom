@@ -2,7 +2,7 @@
 
 It is a simple online virtual classroom website created using React and Firebase. 
 
-![Login Page](https://drive.google.com/file/d/1tQmumD5bD953IKrxLTMLkBS2w1mk4hF-/view?usp=sharing)
+![Login Page](https://drive.google.com/uc?export=view&id=1tQmumD5bD953IKrxLTMLkBS2w1mk4hF-)
 
 Link to live website deployed on Firebase-
 [Visit Website](https://advanced-classroom-b0ce7.web.app/)
